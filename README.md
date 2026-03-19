@@ -17,3 +17,8 @@ Prompt Calibration introduces a more structured approach to prompting. By refini
 A full explanation of Prompt Calibration can be found here:
 
 https://promptcalibration.com/prompt-calibration-explained
+
+## Also Published
+
+- Medium: https://medium.com/@templeoflovellc/what-is-prompt-calibration-218bc52d994c  
+- Dev.to: https://dev.to/templeoflove/what-is-prompt-calibration-3fhh
